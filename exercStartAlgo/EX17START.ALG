@@ -3,7 +3,7 @@ var
    opMenu: caractere
    totalC: inteiro
 inicio
-      totalC <- 0
+
       repita
          escreval("1 - TROCA DE ÓLEO")
          escreval("2 - BALANCEAMENTO")
